@@ -1,6 +1,6 @@
 ## TensorFlow tutorials - full original descriptions can be found [here](https://www.tensorflow.org/tutorials).
 
-Tutorials:
+### Tutorial list:
 1. ### [Basic Classification](https://www.tensorflow.org/tutorials/keras/basic_classification#import_the_fashion_mnist_dataset)
 
 
