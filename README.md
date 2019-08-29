@@ -1,4 +1,4 @@
-## TensorFlow - based on [tutorials](https://www.tensorflow.org/tutorials).
+## TensorFlow examples of applications - based on [tutorials](https://www.tensorflow.org/tutorials).
 
 Each tutorial is stored in the Jupyter notebook file.
 
