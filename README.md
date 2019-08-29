@@ -4,7 +4,7 @@ Each tutorial is stored in the Jupyter notebook file.
 
 ### Tutorial list:
 1. ### Digits classification.
-Based on: ### [Basic Classification](https://www.tensorflow.org/tutorials/keras/basic_classification#import_the_fashion_mnist_dataset).
+Based on: [Basic Classification](https://www.tensorflow.org/tutorials/keras/basic_classification#import_the_fashion_mnist_dataset).
 
 
 2. ### [Text Classification](https://www.tensorflow.org/tutorials/keras/basic_text_classification)
