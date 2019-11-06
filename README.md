@@ -19,4 +19,4 @@ Each tutorial is stored in the Jupyter notebook file.
 
 
 
-### Witold
+### Witold Prendota
