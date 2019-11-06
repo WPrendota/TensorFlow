@@ -3,13 +3,13 @@
 Each tutorial is stored in the Jupyter notebook file.
 
 ### Tutorial list:
-1. ### [Digits classification](https://www.tensorflow.org/tutorials/keras/basic_classification#import_the_fashion_mnist_dataset).
+1. ### [Digits Classification](https://www.tensorflow.org/tutorials/keras/basic_classification#import_the_fashion_mnist_dataset) - Done.
 
 
 2. ### [Text Classification](https://www.tensorflow.org/tutorials/keras/basic_text_classification)
 
 
-3. ### [Regression](https://www.tensorflow.org/tutorials/keras/basic_regression)
+3. ### [Regression](https://www.tensorflow.org/tutorials/keras/basic_regression)  - Done.
 
 
 4. ### [Explore overfitting and underfitting](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)
